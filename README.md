@@ -22,7 +22,7 @@ If the user interacts with the "Generate Password" button, then they will be pro
 
 Below is a screenshot of what the website looks like at full size.
 
-![Screenshot of Password Generator](/Assets/Images/uci-module-3-example.png)  
+![Screenshot of Password Generator](/assets/images/uci-module-3-example.png)  
 
 ## Credits
 
